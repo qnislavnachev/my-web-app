@@ -1,0 +1,13 @@
+# Ignore
+
+# Idea files
+.idea/*
+
+# Gradle files
+.gradle/*
+gradle/wrapper/gradle-wrapper.jar
+
+# Node modules
+node_modules/*
+package-lock.json
+
